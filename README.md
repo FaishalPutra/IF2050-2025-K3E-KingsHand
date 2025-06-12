@@ -8,13 +8,11 @@ KingsHand adalah sebuah program aplikasi dekstop yang dirancang sebagai bagian d
 
 ## **How to Run the Program**
 1. Clone repository. 
-
 2. Ganti path `java.project.referencedLibraries` pada `settings.json` agar mengarah ke `Javafx/javafx-sdk-22.0.1/lib/*.jar` di folder hasil clone repository ini.
-
 3. Ganti path `vmArgs` pada `launch.json` agar mengarah ke `Javafx/javafx-sdk-22.0.1/lib/` di folder hasil clone repository ini.
-
-4. Jalankan program Java pada Main.
-
+4. Compile program menggunakan "javac -encoding UTF-8 -cp "lib/gson-2.10.1.jar" --module-path "javafx-sdk-22.0.1/lib" --add-modules javafx.controls,javafx.fxml -d out src\.java src\controller\.java src\firebase\.java src\model\.java src\view\*.java"
+5. Run program menggunakan "java --module-path "javafx-sdk-22.0.1/lib" --add-modules javafx.controls,javafx.fxml -cp "out;lib/gson-2.10.1.jar" Main"
+6. Login akun dengan Email : "rebab@gmail.com" dan password : "123456" untuk mengeksplore feature
 
 ---
 
