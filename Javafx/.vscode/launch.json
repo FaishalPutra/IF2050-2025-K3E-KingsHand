@@ -1,0 +1,26 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "ProposalView",
+      "request": "launch",
+      "mainClass": "ProposalView",
+      "projectName": "Javafx_4cdd9fc8"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "main.Main",
+      "projectName": "Javafx_4cdd9fc8"
+    },
+    {
+      "type": "java",
+      "name": "Run JavaFX",
+      "request": "launch",
+      "mainClass": "Main",
+      "vmArgs": "--module-path \"C:/Users/User/Documents/bahasa pemrograman/Javafx/javafx-sdk-22.0.1/lib\" --add-modules javafx.controls"
+    }
+  ]
+}
