@@ -7,13 +7,13 @@ KingsHand adalah sebuah program aplikasi dekstop yang dirancang sebagai bagian d
 ---
 
 ## **How to Run the Program**
-1. Clone repository  
+1. Clone repository. 
 
-2. Ganti path `java.project.referencedLibraries` pada `settings.json` agar mengarah ke `Javafx/javafx-sdk-22.0.1/lib/` di folder hasil clone repository ini.
+2. Ganti path `java.project.referencedLibraries` pada `settings.json` agar mengarah ke `Javafx/javafx-sdk-22.0.1/lib/*.jar` di folder hasil clone repository ini.
 
 3. Ganti path `vmArgs` pada `launch.json` agar mengarah ke `Javafx/javafx-sdk-22.0.1/lib/` di folder hasil clone repository ini.
 
-4. Jalankan program Java.
+4. Jalankan program Java pada Main.
 
 
 ---
@@ -30,10 +30,10 @@ KingsHand adalah sebuah program aplikasi dekstop yang dirancang sebagai bagian d
 
 ## **Contributors**
 	Muhammad Daffa Kusuma Atmaja	/ 18222108
-	M Rivaldi Mahari			      	/ 18222119
-	Regan Adiesta Mahendra		  	/ 18222122
-	Alfaza Naufal Zakiy				    / 18222126
-	Muhammad Faishal Putra		  	/ 18222129
-	Muhammad Faishal Firdaus	  	/ 18222136
+	M Rivaldi Mahari		/ 18222119
+	Regan Adiesta Mahendra	  	/ 18222122
+	Alfaza Naufal Zakiy     	/ 18222126
+	Muhammad Faishal Putra		/ 18222129
+	Muhammad Faishal Firdaus	/ 18222136
   
 
