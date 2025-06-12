@@ -1,0 +1,47 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "src.Main",
+      "projectName": "IF2050-2025-K3E-KingsHand_2e36dfd5"
+    },
+    {
+      "type": "java",
+      "name": "DetailProject",
+      "request": "launch",
+      "mainClass": "DetailProject",
+      "projectName": "Javafx_4cdd9fc8"
+    },
+    {
+      "type": "java",
+      "name": "ProjectView",
+      "request": "launch",
+      "mainClass": "ProjectView",
+      "projectName": "Javafx_4cdd9fc8"
+    },
+    {
+      "type": "java",
+      "name": "ProposalView",
+      "request": "launch",
+      "mainClass": "ProposalView",
+      "projectName": "Javafx_4cdd9fc8"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "main.Main",
+      "projectName": "Javafx_4cdd9fc8"
+    },
+    {
+      "type": "java",
+      "name": "Run JavaFX",
+      "request": "launch",
+      "mainClass": "Main",
+      "vmArgs": "--module-path \"C:/Users/faish/Documents/FAISHAL/ITB - Akademik/Tahun 3 - Menuju Karir/WBD/IF2050-2025-K3E-KingsHand/javafx-sdk-22.0.1/lib\" --add-modules javafx.controls"
+    }
+  ]
+}
